@@ -1,0 +1,16 @@
+{
+    "name": "Urdf.Net",
+    "rootNamespace": "",
+    "references": [
+        "GUID:911450cb23031094bbe59d9dbf326866"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

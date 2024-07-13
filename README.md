@@ -1,0 +1,1 @@
+A small library for parsing URDF and SRDF files in C# .Net with optional support for the unity coordinate system.

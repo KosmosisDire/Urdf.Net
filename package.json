@@ -1,0 +1,13 @@
+{
+  "name": "com.kosmosisdire.urdfdotnet",
+  "version": "0.0.1-preview",
+  "displayName": "Urdf .Net",
+  "description": "A package for parsing URDF and SRDF files in C# .Net.",
+  "unity": "2023.1",
+  "dependencies": {},
+  "author": {
+    "name": "Nathan George",
+    "email": "kosmosisdire@gmail.com",
+    "url": "https://nathang.dev"
+  }
+}
