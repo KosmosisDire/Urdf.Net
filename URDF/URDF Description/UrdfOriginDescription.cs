@@ -56,7 +56,7 @@ public struct UrdfOriginDef
                     rpyValues[1].ParseFloatOrDefault(0),
                     rpyValues[2].ParseFloatOrDefault(0));
             
-            rotationRUF = Quaternion.CreateFromYawPitchRoll(rpy.Z, rpy.Y, rpy.X);
+            rotationRUF = Quaternion.CreateFromYawPitchRoll(-rpy.Z, rpy.Y, -rpy.X);
         }
     }
 

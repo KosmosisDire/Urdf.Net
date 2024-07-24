@@ -58,6 +58,7 @@ namespace UrdfToolkit.Srdf
 
         public SrdfGroup(XmlNode groupNode, SrdfRobotDescription robotDescription)
         {
+            parent = robotDescription;
             name = groupNode.GetString("name");
 
             var jointNodes = groupNode.SelectNodes("joint");
